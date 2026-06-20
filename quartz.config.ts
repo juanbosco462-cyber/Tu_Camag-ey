@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle:"Camagüey - Enciclopedia Provincial",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
-    baseUrl: "sosiristseng.github.io/template-quartz",
+    locale: "es-ES",
+    baseUrl: "juanbosco462-cyber.github.io/Tu_Camag-ey",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
